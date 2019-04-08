@@ -1,0 +1,16 @@
+#ifndef GUARD_AUDIO_H
+#define GUARD_AUDIO_H
+
+// Types
+enum EAudioType
+{
+	AUDIO_MUSIC,
+	AUDIO_TALK1,
+	AUDIO_TALK2,
+	AUDIO_TALK3,
+	AUDIO_WALK,
+	AUDIO_PICKUP,
+	AUDIO_BLOCKED,
+};
+
+#endif // GUARD_AUDIO_H

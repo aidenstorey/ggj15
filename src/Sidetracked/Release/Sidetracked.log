@@ -1,0 +1,30 @@
+﻿Build started 25/01/2015 4:34:53 p.m..
+     1>Project "D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Sidetracked\Sidetracked.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /wd4005 /analyze- /errorReport:prompt event.cpp program_entry.cpp scene_gameplay.cpp
+         event.cpp
+         program_entry.cpp
+         scene_gameplay.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Release\Sidetracked.exe" /INCREMENTAL:NO /NOLOGO d3d10.lib d3dx10.lib dxerr.lib dsound.lib dxguid.lib winmm.lib ASEngineLib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Release\Sidetracked.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Release\Sidetracked.lib" /MACHINE:X86 /SAFESEH Release\Sidetracked.res
+         Release\dialog.obj
+         Release\entity.obj
+         Release\entity_manager.obj
+         Release\event.obj
+         Release\item.obj
+         Release\npc.obj
+         Release\player.obj
+         Release\program_entry.obj
+         Release\quest.obj
+         Release\scene_endgame.obj
+         Release\scene_gameplay.obj
+         Release\scene_menu.obj
+         Release\tile.obj
+         Generating code
+         Finished generating code
+         Sidetracked.vcxproj -> D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Release\Sidetracked.exe
+     1>Done Building Project "D:\Users\aiden.storey\Desktop\GGJ2015\Sidetracked\Sidetracked\Sidetracked.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.06

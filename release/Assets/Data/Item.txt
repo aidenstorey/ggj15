@@ -1,0 +1,2 @@
+Log,Log.png,4,54,38
+Sword,Sword.png,17,65,50

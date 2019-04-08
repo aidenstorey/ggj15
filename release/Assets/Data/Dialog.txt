@@ -1,0 +1,137 @@
+nd,Father,0,0
+Father: SON! SON! Where are you boy?
+Boy: Hey pops! Gee wiz! What's the news?
+Father: LISTEN TO ME. This is rather important... 
+Every time in a young boy's life,
+they are given a quest of huge importance 
+which affects all those who inhabit the world.
+And it is up to the child to deliver salvation to humanity.
+Boy: Wowzers! This seems important!
+Father: SHUTUP...I need you to bring me an item of great importance\nwhich will help you on your journey... An item of great power...
+Boy: Okie dokey! What do you need pa?
+Father: I need a... Vegetable, of the tubular kind,\ngreen with a slight hint of onions... 
+For dinner... 
+This is quite urgent... 
+But you can locate this legendary artefact nearby at the local\nagricultural expert.
+Boy: Golly... Ok dad! I'll acquire this rare and unique herb of\nunknown nature.
+Father: MOVE WITH HASTE, mayhaps Old Lady Evergreen may be able to\nhelp in your quest. 
+Her wares are the finest in ALL THE LAND! 
+Boy: Blimey! I'll return when I've completed the task! Cheerio!	
+nd,OldLadiesDoor,1,0
+Boy: Great Gob smackers! Old lady evergreen is nowhere in sight!
+What does this curious note pinned to the hanging...
+Ah of course! The silly nana has moved onwards to monetise her\nwares!
+I better proceed before all of the stock dissipates!
+nd,Merchant,2,0
+Boy: Excuse me gent! Do you by chance know the whereabouts of the\nGreat gardener evergreen?
+Has her travels passed you well?
+Merchant: The green grocer has not passed yet traveller.
+I'm afraid you have come too early.
+Boy: Crikey! My elder requested of me urgently, by any chance do\nyou have any of your fine leeks for lending?
+Merchant: These leeks are mightily strong, too strong for you\ntraveller and nothing passes from my hand without a valid and\nfair transaction.
+I'll be willing to part for one fair trade for say a fair price of\n5 golden coinage?
+Boy: Yikes... My father did not pass any funding for this journey..
+Perhaps there is a venue in which I could earn my share?
+Merchant: If you are in need of gold, the builder by the river\nlooking for work-hands to help build a bridge.
+This work may be too strong for you traveller.
+Boy: A reasonable task for a reasonable lad like myself!
+Reserve some of your produce for my swift return, my good sir!
+nd,Builder,3,0
+Boy: I cedar that you are attempting to cross the river.
+Are you planning on building a bridge?
+Builder:Yes but I am rather stumped as I need to gather more lumber\nbut l cannot leaf my tools behind. 
+If you wood be so kind to gather some more fallen trees then I can\nreward you for your efforts. 
+This is knot a hard job, all I require for yew is to gather some\nlogs to help me construct it.
+nd,Builder,5,0
+Builder: Planks a lot! I SAW you work hard so here is a single\ngold coin.
+There is still quite a bit of wood left in the forest, you might\nneed to branch off from the main path to find it.
+nd,Builder,7,0
+Builder: Oh another log! Another coin! This is great. 
+Just three more to go, I'm rooting for you.
+nd,Builder,9,0
+Builder: Oh woad is me. While you were in the forest I was starting\nto get board, so I accidentally fell asleep. 
+When I woke up, I had a number of my possessions stolen, including\nmy pants! 
+I'm sorry but I am unable to pay you until I get my tools back...
+Boy: Poor sap, I hope he is able to get to the root of his\nproblems... 
+Maybe I can track down the thief and see if he leafed any clues\nbehind.
+nd,Thief,10,1
+Boy: Hey you scallywag! Where did you acquire those fine leggings?
+Thief: What's it to you? Do you also like my shoes?
+Boy: It is my duty as a strapping young feisty lad to do what any\nproper gentleman would do!
+Return the stolen wealth or prepare yourself for fisticuffs!
+Thief: Yo, chill little dude. I don't have it any more.\nI got this fine hammock at the discount store.
+Boy: You traded the poor craftsman's belongings for a hanging bed?
+Thief: Hey man, I'm sorry for your loss but don't feel bad.
+If you travel to the cave to the west, there is a treasure that\nyou can take, lad.
+I've been meaning to pick up but I am quite floored.
+You can have it instead if you can reach the reward.
+Boy: Just wait there you rascal, I'll will fetch this stash and\ndeal with your terrible attitude later.
+nd,Monster,11,0
+Flamengo: DAAAAAAAAGKGHKHHUUURrur!!!
+Boy: OH NO! A dastardly demon! Dang! Destiny says only deadly\nweapons of great damage can deal these damned devils.
+Such as a cold balls or daggers!
+nd,Builder,12,0
+Boy: He is still pine-ing over his lost fortune...
+Maybe instead I can build the bridge!
+I'm sure as the sun that there is plenty of wood left in the\nforest to finish this task! 
+nd,Bridge,14,2
+Boy: Hurray! The bridge is almost complete.
+nd,Bridge,16,2
+Boy: A fine piece of work! I'm sure the builder would be proud.
+nd,Monster,18,0
+Flamengo: FAAAARLGGLGGLHUaaaaarng!!
+Boy: Foul fiend! Face the fearsome fury of my fast falchion!
+Flamengo: BLAAAAGASDHURSssssssssssgghhh.......
+nd,Chest,19,0
+Boy: Let's see what devious treasures these monsters were storing...
+-CREAK-
+Boy: Oh boy gosh! Old Lady Evergreen!
+Evergreen: Ah hello there child, what brings you here!
+Boy: What were you doing trapped in that chest! And why are you also\ntied up??
+Evergreen: What chest? I was just travelling to the town when some\nnice fiery critters helped me into a locomotive to make\nthe journey easier.
+Boy: You foolish old fool! What makes you think they were doing you\na favour?
+Evergreen: All that they requested for the favour was some tasty nice\nvegetables! They forcefully took all the stock on my\nhands!
+They must have been quite hungry the poor souls...
+Boy: Ah blast! I required a source of leek, to nurture the future of\nall of humanity!
+Do you have any more? It's a matter of DESTINY!!
+Evergreen: You want some veggies? Sure I have a whole entire house\nload of them back at my hovel.
+I would give you some but unfortunately my legs are dead tired from\nsitting inside of tram.
+Could you be a dear and help me travel back?
+nd,OldLadiesDoor,21,0
+Boy: Huzzah! There you go matron Evergreen. 
+Evergreen: Hang your breeches, let me just grab some lettuce for\nyou then.
+Boy: I beg your pardon, but I require the green leeks you are so\nfamously recognised for.
+Evergreen: Oh do you want some more?? 
+Boy: No I need some Leeks. Are you mental?
+Evergreen: So you want some Lentils?
+Boy: What! No just some Leeks will do.
+Evergreen: Sorry sonny I don't have any stew.
+Boy: Please, just a handful of leeks and I'll be on my way.
+Evergreen: Ah, a brilliant choice, some pickles in hay!
+Boy: NO LISTEN TO ME SPEAK.
+Evergreen: Oh you just want some leeks? I'm sorry honey I've run\ncompletely dry.
+If you wish I can give you some gold in return for your help in my\nsafe return instead.
+Boy: Well, if it would help end this foolishness, the transaction\nis fair. Now to go trade with the merchant!
+nd,Merchant,22,0
+Boy: Retailer! I am about to go into battle and I require your\nfinest leeks...
+Goodness gracious! What happened to your stash?
+Merchant: Foul fortunes fall upon me traveller.
+I was just juggling some of my strongest baguettes and I was caught\noff guard when a thief in fine looking pants removed me\nfrom most of my wealth.
+Boy: Holy heists! I know the muddy mugger behind all of this.
+nd,Thief2,23,1
+Thief: Oh look on who has returned. I hope the cave treated you well\nand you didn't get burned.
+Boy: You crazy crook! Why did you steal all of the merchant's goods?\nWhat use do you have for them anyway?
+Thief: This leeks are the best around. I feel great when lying on this mound.	
+If you want a take a stick or two. Feel free to use one for your stew.
+Boy: You rambling robber! If the world was not in danger, I'd kick your\nass you stealing stranger.
+nd,Father,25,0
+Boy: Father, awake from your slumber for I have returned, leek in hand!
+Father! Your son has face challenge after challenge and returned triumphant!
+Father, you're looking awfully pale, let me prepare this hearty meal\nand we shall feast until the break of dawn!
+Time surely has taken its toll on you, my father. Let us get some\nmeat on those bones.
+Father?
+... Father?
+...... Pop?
+......... Dad?
+Father: *dead*
+Boy: WHAT DO I DO NOW?

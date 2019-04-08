@@ -1,0 +1,36 @@
+nd,Father,0,0
+Get me some leeks
+nd,OldLadiesDoor,1,0
+She isn't here
+nd,Merchant,2,0
+You can buy my leeks if you have the gold
+nd,Builder,3,0
+I will give you gold if you get logs for the bridge
+nd,Builder,5,0
+I have some more gold if you have more logs
+nd,Builder,7,0
+More gold waiting
+nd,Builder,9,0
+A thief stole my pants
+nd,Thief,10,1
+Bring me the chest from the cave
+nd,Monster,11,0
+I am not going to just let you pass
+nd,Builder,12,0
+Please finish the bridge, I have no pants
+nd,Bridge,14,2
+Creak!
+nd,Bridge,16,2
+The bridge is complete
+nd,Monster,18,0
+The Flamengo has died
+nd,Chest,19,0
+The old lady is inside!
+nd,OldLadiesDoor,21,0
+Thank you for delivering me home
+nd,Merchant,22,0
+The Thief stole all my leeks!
+nd,Thief,23,1
+I suppose I have ruined your day enough already
+nd,Father,25,0
+Took you long enough!

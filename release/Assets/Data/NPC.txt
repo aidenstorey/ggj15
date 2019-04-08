@@ -1,0 +1,7 @@
+Father,Father.png,21,21
+OldLadiesDoor,House_DoorNote.png,43,19
+Merchant,Merchant.png,18,47
+Builder,Builder.png,50,50
+Monster,Monster.png,23,68
+Chest,Chest.png,23,80
+Bridge,Signpost.png,51,47
